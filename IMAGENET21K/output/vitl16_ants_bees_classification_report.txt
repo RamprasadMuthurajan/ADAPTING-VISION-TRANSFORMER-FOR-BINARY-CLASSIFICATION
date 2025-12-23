@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+        Ants       0.99      0.99      0.99        70
+        Bees       0.99      0.99      0.99        83
+
+    accuracy                           0.99       153
+   macro avg       0.99      0.99      0.99       153
+weighted avg       0.99      0.99      0.99       153
